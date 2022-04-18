@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gabriel.nfne@gmail.com
+	name = gabriel ferreira
